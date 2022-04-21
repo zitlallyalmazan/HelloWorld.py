@@ -22,3 +22,4 @@ This is a traditional Hello World program. I created this to demonstrate the use
 {Make a list of websites that you found helpful in this project}
 * [Visual Studio Code and GitHub](https://code.visualstudio.com/docs/editor/versioncontrol)
 * [Python 3.9 Reference Manual](https://docs.python.org/3.9/library/)
+* [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
